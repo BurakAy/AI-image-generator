@@ -1,4 +1,5 @@
-# OpenAI API
+# OpenAI API 
+https://platform.openai.com/overview
 
 ## APIs used
 Image generation https://platform.openai.com/docs/guides/images
