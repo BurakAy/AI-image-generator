@@ -1,6 +1,6 @@
 # OpenAI API
 
-## APIs
+## APIs used
 Image generation
 
 Moderation
