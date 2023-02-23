@@ -1,6 +1,6 @@
 # OpenAI API
 
 ## APIs used
-Image generation
+Image generation https://platform.openai.com/docs/guides/images
 
-Moderation
+Moderation https://platform.openai.com/docs/guides/moderation
