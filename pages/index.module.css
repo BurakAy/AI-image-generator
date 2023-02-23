@@ -71,7 +71,7 @@
 }
 .main .result {
   font-weight: bold;
-  margin-top: 40px;
+  margin: 40px 0 80px 0;
   text-align: center;
 }
 .main .result img {
